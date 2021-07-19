@@ -1,0 +1,21 @@
+body {
+  background: linear-gradient(
+    to bottom,
+    #e61c3e,
+    #e61c3e 30px,
+    #ff1e44 30px,
+    #ff1e44 230px,
+    #212121 230px,
+    #212121
+  );
+}
+.checkBoxGroup {
+  color: white;
+  float: right;
+  height: 5px;
+  width: 5px;
+  position: tricky;
+}
+div {
+  height: 1000px;
+}
