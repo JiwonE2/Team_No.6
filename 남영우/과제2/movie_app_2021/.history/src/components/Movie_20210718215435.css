@@ -1,0 +1,9 @@
+/* .moiveImg2:hover {
+  position: absolute;
+
+  transform: scale(1.2) translate(10%, 10%);
+} */
+
+.movie:hover {
+  transform: scale(1.1);
+}
